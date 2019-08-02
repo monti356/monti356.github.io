@@ -8,8 +8,8 @@ body {
 }
 
 h1 { 
-  background-color: white;
-  color: cyan;
+  background-color: blue;
+  color: black;
   display: inline-block;
   padding: 1rem;
   margin: 1rem;
